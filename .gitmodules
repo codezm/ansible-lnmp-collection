@@ -1,0 +1,12 @@
+[submodule "roles/common"]
+	path = roles/common
+	url = https://github.com.cnpmjs.org/codezm/ansible-role-common.git
+[submodule "roles/nginx"]
+	path = roles/nginx
+	url = https://github.com.cnpmjs.org/codezm/ansible-role-nginx.git
+[submodule "roles/mysql"]
+	path = roles/mysql
+	url = https://github.com.cnpmjs.org/codezm/ansible-role-mysql.git
+[submodule "roles/php"]
+	path = roles/php
+	url = https://github.com.cnpmjs.org/codezm/ansible-role-php.git
