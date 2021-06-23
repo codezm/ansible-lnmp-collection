@@ -46,7 +46,7 @@ dependencies: {}
 repository: https://github.com/codezm/ansible-lnmp-collection
 
 # The URL to any online docs
-documentation: https://github.com/codezm/ansible-lnmp-collection/README.md
+documentation: https://github.com/codezm/ansible-lnmp-collection/blob/master/README.md
 
 # The URL to the homepage of the collection/project
 homepage: https://github.com/codezm/ansible-lnmp-collection
